@@ -32,8 +32,10 @@
  * ser escrito entre áspas.
  */
 // Resposta
-/* 01 */ let nomeDoTipoTexto
+/* 01 */ let texto = "quadro quebrado"
+let nomeDoTipoTexto = "string"
 /* 02 */ let nomeDoTipoNumero
+/* 02 */ let numero = 2_450.75
 /* 03 */ let nomeDoTipoBooleano
 /* 04 */ let nomeDoTipoIndefinido
 /* 05 */ let nomeDoTipoObjeto
