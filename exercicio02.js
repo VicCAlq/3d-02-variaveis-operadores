@@ -45,11 +45,11 @@
 /* 07 */ let centoEVinteEOito = 2 ?? 7
 /* 08 */ let setentaECinco = 5 ?? (3 ?? 5)
 /* 09 */ let centoEOito = 27 ?? 27 ?? 27 ?? 27
-/* 10 */ let cinquentaEUm = 10 ?? 5 ?? 1
-/* 11 */ let quinze = 90 ?? 6
-/* 12 */ let sete = 84 ?? 11
+/* 10 */ let cinquentaEUm = 10 * 5 + 1
+/* 11 */ let quinze = 90 / 6
+/* 12 */ let sete = 84 % 11
 /* 13 */ let quarentaECinco = 945 ?? 50
-/* 14 */ let quarentaENove  = 7 ?? 2
+/* 14 */ let quarentaENove  = 7 ** 2
 
 /* NÃO MUDAR NADA DESTA LINHA EM DIANTE */
 export {
