@@ -34,8 +34,10 @@
 // Resposta
 /* 01 */ let nomeDoTipoTexto
 /* 02 */ let nomeDoTipoNumero
-/* 03 */ let nomeDoTipoBooleano
-/* 04 */ let nomeDoTipoIndefinido
+/* 03 */ let verdadeiro = true
+let nomeDoTipoBooleano = "boolean"
+/* 04 */ let valorIndefinido
+let nomeDoTipoIndefinido = "undefined"
 /* 05 */ let nomeDoTipoObjeto
 
 /* Questões de 01 a 05
