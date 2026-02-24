@@ -36,14 +36,14 @@
 /* 02 */ let nomeDoTipoNumero
 /* 03 */ let nomeDoTipoBooleano
 /* 04 */ let nomeDoTipoIndefinido
-/* 05 */ let nomeDoTipoObjeto
+/* 05 */ let nomeDoTipoObjeto = "object"
 
 /* Questões de 01 a 05
  * 
  * Atribua para as variáveis abaixo valores correspondentes ao tipo de cada uma.
  */
 // Resposta
-/* 06 */  let souTexto
+/* 06 */  let souTexto ="bakugan é bom sim!"
 /* 07 */  let souNumero
 /* 08 */  let souBooleano 
 /* 09 */  let souIndefinido
