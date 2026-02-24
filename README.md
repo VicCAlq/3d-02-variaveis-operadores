@@ -37,7 +37,7 @@ As atividades deste módulo dizem respeito a variáveis em JavaScript. Sigam as 
 
 1. As questões se encontram nos arquivos `exercicio01.js` 2 `exercicio02.js`. 
 
-2. Cada um destes arquivos contém 12 exercícios. Para atingir a nota máxima para as atividades de hoje, cada aluno precisa responder um total de 6 exercícios, sendo obrigatoriamente 3 por cada arquivo.
+2. `exercicio01.js` contém 10 exercícios, e `exercicio02.js` contém 14 exercícios. Para atingir a nota máxima para as atividades de hoje, cada aluno precisa responder um total de 6 exercícios, sendo no mínimo dois do `exercicio01` e quatro do `exercício02`.
 
 3. Os espaços para as respostas ficam logo abaixo das questões, no mesmo arquivo, como no exemplo abaixo:
 
