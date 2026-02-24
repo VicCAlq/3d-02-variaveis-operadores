@@ -32,22 +32,22 @@
  * ser escrito entre áspas.
  */
 // Resposta
-/* 01 */ let nomeDoTipoTexto
-/* 02 */ let nomeDoTipoNumero
-/* 03 */ let nomeDoTipoBooleano
-/* 04 */ let nomeDoTipoIndefinido
-/* 05 */ let nomeDoTipoObjeto
+/* 01 */ let nomeDoTipoTexto = "String"
+/* 02 */ let nunomeDoTipoNumero = "Number"
+/* 03 */ let nomeDoTipoBooleano = "Boolean"
+/* 04 */ let nomeDoTipoIndefinido = "undefined"
+/* 05 */ let nomeDoTipoObjeto = "Object"
 
 /* Questões de 01 a 05
  * 
  * Atribua para as variáveis abaixo valores correspondentes ao tipo de cada uma.
  */
 // Resposta
-/* 06 */  let souTexto
-/* 07 */  let souNumero
-/* 08 */  let souBooleano 
-/* 09 */  let souIndefinido
-/* 10 */  let souObjeto
+/* 06 */  let souTexto = "samy e helo"
+/* 07 */  let souNumero = 2.118
+/* 08 */  let souBooleano = true
+/* 09 */  let souIndefinido = undefined
+/* 10 */  let souObjeto = ["2 pct de feijão, 1 pct de arroz, 10 pct de cuscuz"]
 
 export {
   nomeDoTipoTexto,
