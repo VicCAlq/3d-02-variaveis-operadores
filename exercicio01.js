@@ -32,11 +32,15 @@
  * ser escrito entre áspas.
  */
 // Resposta
-/* 01 */ let nomeDoTipoTexto
-/* 02 */ let nomeDoTipoNumero
-/* 03 */ let nomeDoTipoBooleano
-/* 04 */ let nomeDoTipoIndefinido
-/* 05 */ let nomeDoTipoObjeto
+/* 01 */ let nomeDoTipoTexto = "joao"
+/* 02 */ let nomeDoTipoNumero = 1.000
+/* 03 */ let nomeDoTipoBooleano = true
+/* 04 */ let nomeDoTipoIndefinido = undefined
+/* 05 */ class NomeDoTipoObjeto {
+  constructor(nome){
+    nome = joao
+  }
+}
 
 /* Questões de 01 a 05
  * 
