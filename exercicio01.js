@@ -34,7 +34,7 @@
 // Resposta
 /* 01 */ let nomeDoTipoTexto
 /* 02 */ let nomeDoTipoNumero
-/* 03 */ let verdadeiro = truee
+/* 03 */ let verdadeiro = true
 let nomeDoTipoBooleano = "boolean"
 /* 04 */ let valorIndefinido
 let nomeDoTipoIndefinido = "undefined"
