@@ -32,9 +32,9 @@
  * ser escrito entre áspas.
  */
 // Resposta
-/* 01 */ let nomeDoTipoTexto
-/* 02 */ let nomeDoTipoNumero
-/* 03 */ let nomeDoTipoBooleano
+/* 01 */ let nomeDoTipoTexto = "String"
+/* 02 */ let nomeDoTipoNumero = "Number"
+/* 03 */ let nomeDoTipoBooleano 
 /* 04 */ let nomeDoTipoIndefinido
 /* 05 */ let nomeDoTipoObjeto
 
@@ -44,10 +44,10 @@
  */
 // Resposta
 /* 06 */  let souTexto
-/* 07 */  let souNumero
-/* 08 */  let souBooleano 
-/* 09 */  let souIndefinido
-/* 10 */  let souObjeto
+/* 07 */  let souNumero = 2
+/* 08 */  let souBooleano = true
+/* 09 */  let souIndefinido = undefined
+/* 10 */  let souObjeto = null
 
 export {
   nomeDoTipoTexto,
