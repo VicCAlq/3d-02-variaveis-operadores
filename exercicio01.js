@@ -36,7 +36,7 @@
 /* 02 */ let nomeDoTipoNumero = "number"
 /* 03 */ let nomeDoTipoBooleano = "boolean"
 /* 04 */ let nomeDoTipoIndefinido = "undefined"
-/* 05 */ let nomeDoTipoObjeto = "class"
+/* 05 */ let nomeDoTipoObjeto = "Object"
 
 /* Questões de 01 a 05
  * 
