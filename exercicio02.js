@@ -36,21 +36,20 @@
  * let cinquentaECinco = 5 * 11
  */
 // Respostas
-/* 01 */ let quarentaEDois = 7 ?? 6
-/* 02 */ let noventaENove = 198 ?? 2
-/* 03 */ let oitentaEQuatro = 44 ?? 40
-/* 04 */ let sessentaEOito = 340 ?? 5
-/* 05 */ let sessentaESeis = 6 ?? 11
+/* 01 */ let quarentaEDois = 7 * 6
+/* 02 */ let noventaENove = 198 / 2
+/* 03 */ let oitentaEQuatro = 44 + 40
+/* 04 */ let sessentaEOito = 340 / 5
 /* 05 */ let sessentaESeis = 6 * 11
 /* 06 */ let tres = 21 % 6
 /* 07 */ let centoEVinteEOito = 2 ** 7 
-/* 08 */ let setentaECinco = 5 ?? (3 ?? 5)
+/* 08 */ let setentaECinco = 5 * (3 * 5)
 /* 09 */ let centoEOito = 27 ?? 27 ?? 27 ?? 27
 /* 10 */ let cinquentaEUm = 10 ?? 5 ?? 1
 /* 11 */ let quinze = 90 / 6
-/* 12 */ let sete = 84 ?? 11
+/* 12 */ let sete = 84 % 11
 /* 13 */ let quarentaECinco = 945 ?? 50
-/* 14 */ let quarentaENove  = 7 ?? 2
+/* 14 */ let quarentaENove  = 7 ** 2
 
 /* NÃO MUDAR NADA DESTA LINHA EM DIANTE */
 export {
