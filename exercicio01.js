@@ -43,7 +43,7 @@
  * Atribua para as variáveis abaixo valores correspondentes ao tipo de cada uma.
  */
 // Resposta
-/* 06 */  let souTexto = "Thialy"
+/* 06 */  let souTexto = "lAura"
 /* 07 */  let souNumero = 45
 /* 08 */  let souBooleano = true
 /* 09 */  let souIndefinido = undefined
